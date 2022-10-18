@@ -2,6 +2,7 @@ package methodhiding;
 
 public class SuperClass {
 
+
 	public static void staticMethod() {
 		System.out.println("I am staticMethod in SuperClass ");
 	}
